@@ -58,9 +58,23 @@ Within each folder, there are subfolders representing individual videos, each of
 - **Data Augmentation**: Applying various augmentations such as flipping, rotating, and cropping to increase the robustness of the model.
 - **End-to-End Pipeline**: From loading data, augmenting it, training the model, and evaluating performance.
 
+### Example Images
+
+Here are some example images from the dataset:
+
+- **Random Images**: 2 random images
+  ![Thumbs Up](images_for_readme/sample images.png)
+
+Here are some stats for the training dataset before data augmenting:
+
+- **Training data**: train
+  ![Here](images_for_readme/training_data_distributuion.png)
 
 
 
+Here are some stats for the validation dataset before data augmenting:
+- **Validation data**: val
+  ![Here](images_for_readme/sample images.png)
 
 
 ### Credits
