@@ -63,7 +63,7 @@ Within each folder, there are subfolders representing individual videos, each of
 Here are some example images from the dataset:
 
 - **Random Images**: 2 random images
-  ![Here](images_for_readme/sample images.png)
+  ![Here](images_for_readme/sample_images.png)
 
 Here are some stats for the training dataset before data augmenting:
 
